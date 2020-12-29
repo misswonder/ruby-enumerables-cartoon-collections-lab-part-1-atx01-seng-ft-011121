@@ -19,4 +19,4 @@ def list_dwarves(array)
     put (index + 1).to_s + ". " + name
   end 
 end
-
+ 
